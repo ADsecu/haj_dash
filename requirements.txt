@@ -1,3 +1,6 @@
 streamlit
 pandas
 numpy
+ummalqura
+plotly-express
+openpyxl
