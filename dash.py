@@ -5,7 +5,7 @@ import plotly.express as px
 from ummalqura.hijri_date import HijriDate
 
 
-st.set_page_config(page_title="لوحة بيانات حج 1444هـ")
+st.set_page_config(page_title="لوحة بيانات حج 1444هـ", layout='wide')
 st.title("Dashboard|لوحة البيانات")
 st.subheader("لوحة معلومات أعداد الحجاج لعام 1444هـ")
 
